@@ -1,0 +1,2 @@
+export const DISTANCE = 1000000000000
+export const SPEED = 8000000000000
